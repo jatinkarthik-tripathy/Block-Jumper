@@ -1,2 +1,2 @@
 # Block-Jumper
-A simple Block Jumper game using Processing(Pyhton)
+A simple Block Jumper game using Processing(Python)
